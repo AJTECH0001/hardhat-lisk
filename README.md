@@ -55,4 +55,4 @@ Each environment has its strengths. Choose based on your needs:
 > ⭐️ Found this helpful? Fork and give a ⭐ to support more dev content!
 
 #Blockchain #Solidity #SmartContracts #Hardhat #Foundry #RemixIDE #Ethereum
-# hardhat-lisk
+
